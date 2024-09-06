@@ -18,7 +18,7 @@ Tenho facilidade no aprendizado de novas habilidades e grande capacidade analít
 ## 👓 GitHub Status
 <div align="center">
   <a href="https://github.com/kenonymous-wav">
-    <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=kenonymous-wav&show_icons=true&theme=dracula&title_color=fc036c&text_color=08807b&include_all_commits=true&count_private=true"/>
+    <img height="160rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kenonymous-wav&show_icons=true&theme=dracula&title_color=fc036c&text_color=08807b&include_all_commits=true&count_private=true"/>
     <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kenonymous-wav&title_color=f0cdab&text_color=b6d4bb&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
