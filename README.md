@@ -2,10 +2,10 @@
 Estudante na área de desenvolvimento de softwares e eletroeletrônica. Possuo conhecimento em: HTML, CSS, C++, Ladder, Python, Figma e Git.  
 Tenho facilidade no aprendizado de novas habilidades e grande capacidade analítica, assim como uma boa criatividade. Sei inglês básico.
 
-## 📱Meus contatos:
+## 📱 Meus contatos:
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fernandes-da-silva-454a0b208?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-## 🖥️Linguagens/Frameworks que utilizo:
+## 🖥️ Linguagens/Frameworks que utilizo:
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,7 +15,7 @@ Tenho facilidade no aprendizado de novas habilidades e grande capacidade analít
 ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 👓 GitHub Status
+## 🕵️ GitHub Status
 <div align="center">
   <a href="https://github.com/kenonymous-wav">
     <img height="160rem" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kenonymous-wav&show_icons=true&theme=dracula&title_color=fc036c&text_color=08807b&include_all_commits=true&count_private=true"/>
